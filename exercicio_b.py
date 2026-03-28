@@ -1,0 +1,12 @@
+print("Digite o primeiro número:")
+a = int(input())
+print("Digite o segundo número:")
+b = int(input())
+print("Digite o terceiro número:")
+c = int(input())
+print("Digite o quarto número:")
+d = int(input())
+print("Digite o quinto número:")
+e = int(input())
+media = (a+b+c+d+e)/5
+print("A média artimética dos números apresentados é:", media)
