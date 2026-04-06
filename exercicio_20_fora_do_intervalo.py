@@ -1,0 +1,8 @@
+#Leia um valor e: verifique se eles está entre 0 e 100, 
+#caso o número esteja fora do intervalo,
+#mostre na tela o valor.
+n = float(input("Digite um número:"))
+if (n>0) and (n<100):
+    print ("Dentro do intervalo.")
+else:
+    print (n)
